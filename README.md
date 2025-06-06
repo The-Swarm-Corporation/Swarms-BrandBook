@@ -2,6 +2,8 @@
 
 **Multi-Agent Framework Brand Identity**
 
+[PDF Link](swarms_brandbook.pdf)
+
 Version 1.0 | Last Updated: June 2025
 
 ---
